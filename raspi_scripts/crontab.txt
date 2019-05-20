@@ -1,0 +1,6 @@
+@reboot python3 /home/pi/diploma/parancskezelo.py &
+@reboot python3 /home/pi/diploma/wifi_reconnect.sh &
+
+#@reboot python3 /home/pi/diploma/jpeg_stream.py &
+#@reboot /home/pi/diploma/run_python_scripts.sh
+#@reboot /home/pi/diploma/h264_stream.sh
